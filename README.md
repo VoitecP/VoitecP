@@ -15,5 +15,5 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/art%C5%ABrs-smirnovs-b6399275/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
+<a href="https://www.linkedin.com/in/art%C5%ABrs-smirnovs-b6399275/" target="_blank"><img src="https://github.com/VoitecP/VoitecP/blob/f62bb9720e01f3cd3e276107df9ecc2c9f0fa8b1/images/in.png" alt="LinkedIn" width="30"></a>
 
