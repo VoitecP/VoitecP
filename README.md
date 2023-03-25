@@ -5,9 +5,9 @@ Some informations about me ...
 
 ## Check my Portfolio Projects.
 
-- ⚡ Patient Registration
+- ⚡ [Patient Registration](https://github.com/VoitecP/patient_registration)
 - ⚡ APi Image
-- [I'm a relative reference to a repository file](../blob/patient_registration)
+- 
 
 ### Connect with me:
 
