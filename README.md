@@ -2,7 +2,7 @@
 
 Some informations about me ...
 
-## Check my Portfolio Projects.
+## Check my Portfolio Projects
 
 - ⚡ [Patient Registration](https://github.com/VoitecP/patient_registration)
 - ⚡ [API Image](https://github.com/VoitecP/api-image)
