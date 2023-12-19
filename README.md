@@ -7,6 +7,7 @@ Welcome in my Github account, below you will find my projects.
 - ⚡ [Patient Registration](https://github.com/VoitecP/patient_registration)
 - ⚡ [My Doctor](https://github.com/VoitecP/My-Doctor)
 - ⚡ [Data Collector Script](https://github.com/VoitecP/Data-Collector-Script)
+      CLI script parsing data from XML, CSV, JSON. Using collected and validated data accounts, script will create database and allow to login to account stored in database.
 - ⚡ [API Image](https://github.com/VoitecP/api-image)
 - ⚡ [Book Library](https://github.com/VoitecP/Book-Library)
 
