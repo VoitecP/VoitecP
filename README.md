@@ -5,6 +5,8 @@ Welcome in my Github account, below you will find my projects.
 ### Portfolio
 
 - ⚡ [Patient Registration](https://github.com/VoitecP/patient_registration)
+
+CRUD appliaction written in Django DRF. Allow to create account (patient or doctor). Patient can order visit to selected doctor.  ...  rewriten aka My Doctor. In progress.
 - ⚡ [My Doctor](https://github.com/VoitecP/My-Doctor)
 - ⚡ [Data Collector Script](https://github.com/VoitecP/Data-Collector-Script)
 
