@@ -1,27 +1,32 @@
-# My Doctor 
-CRUD appliaction written in Django DRF. Allow to create account (patient or doctor). Patient can order visit to selected doctor.  ...  rewriten aka My Doctor. In progress.
-
-[Miro Board App Diagram](https://miro.com/welcomeonboard/WE9UZGhScmFyTHlqMVJRa3pWWmJTa3BDQU5WeVhNNDBxOGs4Z0xLRkpwVmw1d21mY2dKWUZTZWtFeUg2VWpEdHwzNDU4NzY0NTU4MTI4MTA2NjkzfDI=?share_link_id=654219957501)
+## Hello 👋
 
 
-- ⚡ [Patient Registration](https://github.com/VoitecP/patient_registration)
+**My name is Wojtek (Voitec)**
+
+I am self learning Python Developer, building own projects and learning new skills. Beause my hollistic nature, I am not satisfied having simple andswers and I am looking from deeper perspective to get satisfactory solution.
+
+## My projects:
 - ⚡ [My Doctor](https://github.com/VoitecP/My-Doctor)
-
-
-# Data Collector Script 
-CLI script parsing data from XML, CSV, JSON. Using collected and validated data accounts, script will create database and allow to login to account stored in database.
 - ⚡ [Data Collector Script](https://github.com/VoitecP/Data-Collector-Script)
 
- 
 
-# API Image
-Aplication that allows to upload images in personal account and create thumbnails
 
-- ⚡ [API Image](https://github.com/VoitecP/api-image)
+### 🧰 Skills and Tools:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Social Links: 
 
-<a href="https://www.linkedin.com/in/piwowarski-wojciech/" target="_blank"><img src="https://github.com/VoitecP/VoitecP/blob/f62bb9720e01f3cd3e276107df9ecc2c9f0fa8b1/images/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://stackoverflow.com/users/20553607/voitecp" target="_blank"><img src="https://github.com/VoitecP/VoitecP/blob/342cce7b46a0da748ffca887a307e3c786c8d776/images/stack.png" alt="StackOverflow" width="30"></a>
+### ✉️ Socials and Contact
+If you are any questions, hints about my projects...  maybe you are interested to cooperate. I will be enjoyed !
+
+Email: piwowarski.connect@gmail.com
+
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
