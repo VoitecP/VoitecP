@@ -24,9 +24,9 @@ I am self learning Python Developer, building own projects and learning new skil
 ### ✉️ Socials and Contact
 If you are any questions, hints about my projects...  maybe you are interested to cooperate. I will be enjoyed !
 
-Email: piwowarski.connect@gmail.com
-
 [Resume](https://raw.githubusercontent.com/VoitecP/VoitecP/master/resume/Piwowarski_CV_en.pdf)
+
+Email: piwowarski.connect@gmail.com
 
 <a href="https://www.linkedin.com/in/piwowarski-wojciech/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://stackoverflow.com/users/20553607/voitecp"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow"></a>
